@@ -10,7 +10,7 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+#this is what i forked from ur tempest not openstack
 import sys
 import os
 
